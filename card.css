@@ -1,0 +1,41 @@
+* {
+    
+    box-sizing: border-box;
+}
+body {
+    background-color: aquamarine;
+}
+.card {
+   background-color: whITE;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+    padding: 10PX;
+    height: 400px;
+    width: 250px;
+    border: 7px solid green;
+    border-top: 3px solid green;
+    border-radius: 30px;
+}
+img {
+
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+p {
+    font-size: 15px;
+    color: rgb(122, 119, 119);
+}
+span {
+    font-size: 17px;
+    color: grey;
+}
+a {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    display: block;
+    border-radius: 7px;
+}
+

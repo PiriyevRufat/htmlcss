@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footertop{
+    height: 60px;
+    padding-top: 20px;
+
+    text-align: center;
+    background-color: rgb(228, 228, 228);
+    color: #a1a1a1;
+}
+.footerbottom div{
+    display: inline-block;
+    margin-right: 500px;
+}
+.footerbottom{
+    padding: 30px;
+}
+i{
+    font-size: 20px;
+    margin-right: 10px;
+    transition: 0.5s;
+}
+#footerbottomsocials{
+    margin: 0;
+    height: 100px;
+}
+a{
+text-decoration: none;
+color: rgb(77, 76, 76);
+}
+i:hover{
+    margin-top: 50px;
+}
